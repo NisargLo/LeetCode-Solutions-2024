@@ -1,13 +1,11 @@
-public class E9 {
-    public static boolean main() {
-        int x=121;
+class Solution {
+    public boolean isPalindrome(int x) {
         if(x<0){
             return false;
         }
-        int y=x,s=0;
-        byte r=0;
+        int y=x,s=0,r;
         while(x>0){
-            r+=x%10;
+            r=x%10;
             x/=10;
             s=(s*10)+r;
         }
