@@ -1,4 +1,3 @@
-<summary>LeetCode Problem Solutions</summary>
 |Sr. No.| Date | Problems | Difficulty | Solutions |   
 |---|---|---------|------------|----------|
 1 | 13/2/24 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Programs/blob/main/Easy/Two%20Sum.java) |
