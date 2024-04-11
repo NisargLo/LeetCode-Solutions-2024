@@ -15,3 +15,4 @@
 13 | 10/3/24 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions/blob/main/Easy/Single%20Number.java) |
 14 | 11/3/24 | [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions/blob/main/Easy/Squares%20of%20Sorted%20Array.java) |
 15 | 12/3/24 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions/blob/main/Medium/Sort%20an%20Array.java) |
+16 | 11/4/24 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions/blob/main/Medium/Sort%20an%20Array.java) |
