@@ -18,4 +18,4 @@
 16 | 11/4/24 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions/blob/main/Easy/Reverse%20Integer.java) |
 17 | 4/5/24 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/To%20Lower%20Case.java) |
 18 | 4/5/24 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Reverse%20String.java) |
-19 | 25/5/24 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Reverse%20String.java) |
+19 | 25/5/24 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Remove%20Duplicates%20from%20Sorted%20Array.java) |
