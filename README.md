@@ -20,3 +20,4 @@
 18 | 4/5/24 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Reverse%20String.java) |
 19 | 25/5/24 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Remove%20Duplicates%20from%20Sorted%20Array.java) |
 20 | 25/5/24 | [Add Strings](https://leetcode.com/problems/add-strings/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Add%20Strings.java) |
+21 | 27/5/24 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Add%20Strings.java) |
