@@ -4,8 +4,9 @@ class Solution {
           while (l < r) {
                char lc = s.charAt(l);
                char rc = s.charAt(r);
-               if (lc != rc)
+               if (lc != rc) {
                     return compare(s, l + 1, r) || compare(s, l, r - 1);
+               }
                l++;
                r--;
           }
