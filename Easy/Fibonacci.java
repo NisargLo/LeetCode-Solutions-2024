@@ -9,7 +9,7 @@ class Solution {
      }
 
      public int fibo(int n) {
-          if (n > 1) {
+          if (n >= 2) {
                c = a + b;
                a = b;
                b = c;
