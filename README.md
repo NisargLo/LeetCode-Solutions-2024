@@ -1,4 +1,5 @@
 <h1>1<sup>st</sup> 25 Leetcode Solution of 2024</h1>
+
 |Sr. No.| Date | Problems | Difficulty | Solutions |   
 |---|---|---------|------------|----------|
 1 | 13/2/24 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Two%20Sum.java) |
@@ -26,4 +27,5 @@
 23 | 29/5/24 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Convert%20the%20Temperature.java) |
 24 | 29/5/24 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Type%20of%20Triangle.java) |
 25 | 29/5/24 | [Fibonacci](https://leetcode.com/problems/fibonacci-number/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Fibonacci.java) |
+
 <p>And many more...</p>
