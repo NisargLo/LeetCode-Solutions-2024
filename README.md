@@ -28,4 +28,4 @@
 24 | 29/5/24 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Type%20of%20Triangle.java) |
 25 | 29/5/24 | [Fibonacci](https://leetcode.com/problems/fibonacci-number/) | Easy | [Java](https://github.com/Nisarg-Lo/My__LeetCode__Solutions__2024/blob/main/Easy/Fibonacci.java) |
 
-<p>And many more...</p>
+<p>AND MANY MORE...</p>
