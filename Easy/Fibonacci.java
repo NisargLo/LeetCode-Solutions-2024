@@ -8,7 +8,7 @@ class Solution {
           return fibo(n);
      }
 
-     public int fibo(int n) {
+     private int fibo(int n) {
           if (n >= 2) {
                c = a + b;
                a = b;
