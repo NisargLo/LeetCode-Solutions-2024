@@ -1,4 +1,4 @@
-<h1>My 1<sup>st</sup>&nbsp; 25 LeetCode Solutions of 2024</h1>
+<h1>My 1<sup>st</sup>&nbsp; 25 LeetCode solutions of 2024</h1>
 
 |Sr. No.| Date | Problems | Difficulty | Solutions |   
 |---|---|---------|------------|----------|
